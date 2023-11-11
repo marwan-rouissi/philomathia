@@ -153,7 +153,8 @@ La notion de dérivée est une notion fondamentale en analyse fonctionnelle. Ell
 
 ## Ressources supplémentaires:
 Quelques ressources utiles si vous souhaitez approfondir vos connaissances en mathématiques avec Python:
-- Documentation officielle de Numpy :    https://numpy.org/doc/stable/user/absolute_beginners.html
+- Documentation officielle de Numpy :   
+https://numpy.org/doc/stable/user/absolute_beginners.html
 - Tutoriel Python, calculs matriciels :   
 https://www.cours-gratuit.com/tutoriel-python/tutoriel-python-comment-faire-les-calculs-matriciels-avec-python#_Toc56715054
 - Dérivation :   
