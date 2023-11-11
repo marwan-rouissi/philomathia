@@ -13,8 +13,8 @@ Elles sont essentielles à la résolution de problèmes de modèlisation et d'op
 Concepts essentiels pour l'analyse exploratioire des données, la modélisation statique et l'interprétation des résultats.
 	- Calcul de dérivées (calcul différentiel) : Calcul de dérivées symboliques de fonctions. Permet de comprendre comment les fonctions changent localement.   
  Les dérivées sont utilisées pour optimiser les modèles, trouver les points critiques et comprendre les taux de variation dans les données. Le calcul différentiel est également utilisé dans l'apprentissage automatique pour ajuster les paramètres des modèles.
-- Dans les fichiers ``ctl.py`` et ``algotri.py``
-  	- Aller plus loin... : Visualisation et simulation de la CLT ainsi qu'application de divers algorithme de tri.
+  	- Aller plus loin... : Visualisation et simulation de la CLT ainsi qu'application de divers algorithme de tri.   
+Implémentation faite dans les fichiers ``ctl.py`` et ``algotri.py``
 
 ## Veille scientifique
 
