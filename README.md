@@ -1,5 +1,21 @@
 # philomathia
 
+Ce projet a pour objectif d'explorer les concepts mathématiques de base à l'aide du langage de programmation Python en utilisant principalement la bibliothèque Numpy.   
+Les mathématiques sont le fondement de la Data Science, en effet, elles fournissent les outils et les techniques nécessaires pour comprendre, modèliser et analyser les données.
+
+## Contenu du projet
+- Dans le ReadMe:
+	- Veille scientifique : une introduction sur certaines notions mathématiques.
+- Dans le notebook Python ``Philomathia.ipynb``:
+  	- Algèbre linéaire : Manipulation de vecteurs et de matrices, application des opérations de bases : addition, soustraction, multiplication et inversion de matrices.   
+Elles sont essentielles à la résolution de problèmes de modèlisation et d'optimisation.
+	- Probabilités et statistiques : Introduction aux concepts de probabilité, calcul de probabilités distribution normale, échantillonnage aléatoire et estimation statistique.    
+Concepts essentiels pour l'analyse exploratioire des données, la modélisation statique et l'interprétation des résultats.
+	- Calcul de dérivées (calcul différentiel) : Calcul de dérivées symboliques de fonctions. Permet de comprendre comment les fonctions changent localement.   
+ Les dérivées sont utilisées pour optimiser les modèles, trouver les points critiques et comprendre les taux de variation dans les données. Le calcul différentiel est également utilisé dans l'apprentissage automatique pour ajuster les paramètres des modèles.
+- Dans les fichiers ``ctl.py`` et ``algotri.py``
+  	- Aller plus loin... : Visualisation et simulation de la CLT ainsi qu'application de divers algorithme de tri.
+
 ## Veille scientifique
 
 ### 1. Un vecteur
@@ -134,3 +150,15 @@ Plus précisément, une dérivée est une expression (numérique ou algébrique)
 La notion de dérivée est une notion fondamentale en analyse fonctionnelle. Elle permet d'étudier les variations d'une fonction, de construire des tangentes à une courbe et de résoudre des problèmes d'optimisation.
 
 *variation infinitésimale: notion mathématique qui représente la différence entre deux valeurs très proches l'une de l'autre.
+
+## Ressources supplémentaires:
+Quelques ressources utiles si vous souhaitez approfondir vos connaissances en mathématiques avec Python:
+- Documentation officielle de Numpy :    https://numpy.org/doc/stable/user/absolute_beginners.html
+- Tutoriel Python, calculs matriciels :   
+https://www.cours-gratuit.com/tutoriel-python/tutoriel-python-comment-faire-les-calculs-matriciels-avec-python#_Toc56715054
+- Dérivation :   
+https://www.studysmarter.fr/resumes/mathematiques/analyse-mathematiques/derivation/
+- Calculer la dérivée en Python:   
+https://www.delftstack.com/fr/howto/python/python-derivative/#d%C3%A9riv%C3%A9-avec-la-biblioth%C3%A8que-sympy-en-python
+
+Les images utilisées pour illuster certaines des notions plus haut sont tirées d'internet et de sites sources.
